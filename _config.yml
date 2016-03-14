@@ -2,6 +2,7 @@ name: GravityImages
 favicon: null
 layout_spectrum: 0.17407350591383874
 typography_spectrum: 0.5342613798566163
+title: Gravity Images
 cta:
   domain: null
   bucket: null
